@@ -1,0 +1,16 @@
+{
+    "nome":"Bruno" ,
+    "identificação": 441570, 
+    "idade": 21,
+    "email":"bruno@cliente.com.br",
+    "telefone": [11998775497, 11994532156],
+    "endereco" : 
+
+{
+    "rua": "Prudente de Faria",
+    "numero": 2456,
+    "apartamento": false,
+    "complemento": "Apt 34"
+}
+
+}
